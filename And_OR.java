@@ -12,7 +12,7 @@
 
 import java.util.Scanner;
 
-class Main {
+class And_OR {
     public static void main (String[] args) {
     Scanner sc = new Scanner(System.in);
     int T = sc.nextInt();
