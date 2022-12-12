@@ -1,6 +1,6 @@
 // You are given a 2X2 square matrix. You need to find the determinant of the matrix.
 import java.util.*;
-class Main {
+class Determinant {
     public static void main (String[] args) {
      Scanner sc = new Scanner(System.in);
      int a[][] = new int[2][2];
