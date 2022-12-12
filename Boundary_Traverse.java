@@ -1,7 +1,7 @@
 // You are given a matrix A of dimensions n x m. The task is to perform boundary traversal on the matrix in clockwise manner.
 
 import java.util.*;
-class Main {
+class Boundary_Traverse {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
