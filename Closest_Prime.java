@@ -1,7 +1,7 @@
 // Given an integer N, find the closest prime number to N. If there are multiple print the smaller one.
 
 import java.util.*;
-class Main {
+class Closest_Prime {
      public static int Pr(int n){
         for(int i=2; i<=Math.sqrt(n); i++){
             if(n%i==0){
